@@ -1,0 +1,9 @@
+build
+compile/env_settings.py
+deploy
+keys
+src/settings.h
+
+.DS_Store
+__pycache__
+*~
